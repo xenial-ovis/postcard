@@ -50,7 +50,7 @@ Mac OS High Sierra (10.13.6)
 **ワードテンプレートのダウンロード** → [https://github.com/xenial-ovis/postcard/blob/master/postcard.docx](https://github.com/xenial-ovis/postcard/blob/master/postcard.docx)   
 (「View Raw」あるいは「Download」を押すとダウンロードできます）
 
-※ ワードを開く際に以下のメッセージが出るときがあるので「OK」を洗濯してください。
+※ ワードを開く際に以下のメッセージが出るときがあるので「OK」を選択してください。
 
 <img src="appendix/word_message.png" width=50%>
 
