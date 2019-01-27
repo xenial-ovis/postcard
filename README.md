@@ -1,7 +1,7 @@
-# postcard
+# [postcard] 年賀状の宛先自動入力をMicrosoft Excel & Word for Macで無料で作る
 
-年賀状の宛名自動入力ソフト（エクセル・ワード）  
-(作成日：2019年1月27日)
+
+作成日：2019年1月27日
 
 ## はじめに
 
@@ -54,7 +54,7 @@ Mac OS High Sierra (10.13.6)
 
 ※ ワードを開く際に以下のメッセージが出るときがあるので「OK」を洗濯してください。
 
-![ワードメッセージ](appendix/word_message.png)
+<img src="appendix/word_message.png" width=50%>
 
 #### ワードテンプレートと手順
 
@@ -71,8 +71,8 @@ Mac OS High Sierra (10.13.6)
 
 #### サンプル例（プレビュー結果）
 
-![ワードサンプル1](appendix/word_sample1.png)
-![ワードサンプル2](appendix/word_sample2.png)
+<img src="appendix/word_sample1.png" width=50%>
+<img src="appendix/word_sample2.png" width=50%>
 
 ----
 
