@@ -22,7 +22,7 @@ Mac OS High Sierra (10.13.6)
 
 テンプレートを以下からダウンロードして、宛先を記入してください。
 
-**エクセルテンプレートのダウンロード** → [https://github.com/xenial-ovis/postcard/blob/master/postcard.docx](https://github.com/xenial-ovis/postcard/blob/master/postcard.xlsx) 
+**エクセルテンプレートのダウンロード** → [https://github.com/xenial-ovis/postcard/blob/master/postcard.docx](https://github.com/xenial-ovis/postcard/blob/master/postcard.xlsx)  
 (「View Raw」あるいは「Download」を押すとダウンロードできます）
 
 #### エクセルテンプレートの説明
